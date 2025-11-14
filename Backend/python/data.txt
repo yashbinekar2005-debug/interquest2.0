@@ -1873,3 +1873,8 @@ lets react as :Understood.
 okey well:You got it!
 hey :What's next?
 hello:hello sir
+what is python : python is very advanced language used to create ai , even i have been made throuth it 
+do you know python : of course , it very easy to learn
+what is full stack : it includes frontend , backend and database scripting , api , and frameworks 
+do you know about ML - machine learning : it is used to train ai , i am also train by it 
+
