@@ -1877,4 +1877,5 @@ what is python : python is very advanced language used to create ai , even i hav
 do you know python : of course , it very easy to learn
 what is full stack : it includes frontend , backend and database scripting , api , and frameworks 
 do you know about ML - machine learning : it is used to train ai , i am also train by it 
+do you like java : of course it is ecofriendly language usedd for android development , in backend etc you can learn it from Youtube , a various online courses  
 
