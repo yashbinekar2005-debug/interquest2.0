@@ -1,0 +1,8 @@
+{
+  "name": "internquest-frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'No build process'"
+  }
+}

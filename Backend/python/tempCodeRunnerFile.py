@@ -1,0 +1,1 @@
+ # threading.Thread(target=lambda: speak(response), daemon=True).start()

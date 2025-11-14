@@ -1,0 +1,32 @@
+internquest/
+│
+├── frontend/                 # React application
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/         # API calls to backend
+│   │   ├── styles/
+│   │   └── App.js
+│   ├── package.json
+│   └── README.md
+│
+├── backend-python/           # Flask AI service
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── models/               # AI models and utilities
+│   └── README.md
+│
+├── backend-java/             # Spring Boot application
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       └── resources/
+│   ├── pom.xml
+│   └── README.md
+│
+├── database/                 # SQL scripts
+│   └── schema.sql
+│
+└── docs/
+    └── README.md             # Setup instructions
